@@ -1,6 +1,6 @@
 # azure-dp-200
 
-
+https://www.cathrinewilhelmsen.net/2019/05/29/preparing-taking-microsoft-exam-dp-200-implementing-azure-data-solution/
 
 Resoures
 
